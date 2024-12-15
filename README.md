@@ -11,7 +11,7 @@ Historical data on residential property prices was used during the analysis to b
 Geospatial analyses utilized data sourced from [simplemaps](https://simplemaps.com/gis/country/pt). 
 
 ## Folders
-Please explore my Jupyter notebooks, located in the Scripts folder. The original data used for this project can be found in the Data folder. 
+Please explore my Jupyter notebooks located in the Scripts folder. The original data used for this project can be found in the Original Data folder. 
 
 ## Tableau Storyboard
 The results of my analysis can be found online by viewing my [Tableau storyboard](https://public.tableau.com/views/Portuguese_Real_Estate/PortugueseRealEstateAnalysis?:language=en-US&:sid=302D84AB4FF6462FA85ADE4C00F46A19-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link). 
